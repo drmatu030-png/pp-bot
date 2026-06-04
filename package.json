@@ -1,0 +1,13 @@
+{
+  "name": "pp-bot",
+  "version": "1.0.0",
+  "main": "wa_pp.js",
+  "scripts": {
+    "start": "node wa_pp.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "dotenv": "^16.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
